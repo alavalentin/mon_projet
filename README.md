@@ -1,2 +1,3 @@
 # mon_projet
-test de mon cod
+
+Ce repository me permet d'apprendre à utiliser Git
